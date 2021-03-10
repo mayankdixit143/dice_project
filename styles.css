@@ -39,3 +39,12 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.footer {
+  padding: 1rem;
+  text-align: center;
+}
+.link{
+  font-size: 2rem;
+  color: red;
+}

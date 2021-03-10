@@ -46,5 +46,8 @@ footer {
 }
 .link{
   font-size: 2rem;
-  color: red;
+  color: #fff;
+}
+.link:hover{
+  color:#fff;
 }
